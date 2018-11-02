@@ -1,0 +1,3 @@
+﻿  td4.cpp
+d:\polymtl\a2018\prog\td4\td4\td4.cpp(74): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  td4.vcxproj -> D:\POLYMTL\A2018\prog\TD4\Debug\td4.exe
